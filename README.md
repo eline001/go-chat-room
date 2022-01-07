@@ -1,2 +1,2 @@
 # go-chat-room
-golang 实现多人群聊
+golang 基于tcp 实现多人聊天室
